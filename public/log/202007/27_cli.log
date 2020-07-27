@@ -1,0 +1,4 @@
+[2020-07-27T16:10:33+08:00][ error ] [0]Fatal error: Call to undefined method think\App::bing()[/www/wwwroot/tp513/public/timetask_server.php:25]
+error
+[2020-07-27T16:10:50+08:00][ error ] [0]Type error: Too few arguments to function think\App::bind(), 0 passed in /www/wwwroot/tp513/public/timetask_server.php on line 25 and exactly 1 expected[/www/wwwroot/tp513/thinkphp/library/think/App.php:139]
+error
