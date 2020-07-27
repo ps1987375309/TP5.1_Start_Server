@@ -1,9 +1,9 @@
 # TP5.1_Start_Server
-TP5.1建立服务，如定时任务等
+#TP5.1建立服务，如定时任务等
 
 #安装
-安装Thinkphp5.1框架
-安装workerman  composer require workerman/gateway-worker=3.0
+#安装Thinkphp5.1框架
+#安装workerman  composer require workerman/gateway-worker=3.0
 
 #服务入口文件绑定服务对应的模块（不同的TP版本，写法可能不同）
 /public/timetask_server.php
